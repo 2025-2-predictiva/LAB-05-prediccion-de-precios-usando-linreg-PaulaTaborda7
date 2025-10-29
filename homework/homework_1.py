@@ -1,5 +1,5 @@
 #
-# En este dataset se desea pronosticar el precio de vhiculos usados. El dataset
+# En este dataset se desea pronosticar el precio de vehículos usados. El dataset
 # original contiene las siguientes columnas:
 #
 # - Car_Name: Nombre del vehiculo.
